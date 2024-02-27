@@ -54,8 +54,8 @@ while ($row1 = mysqli_fetch_assoc($result1)) {
   
   <div class="sidebar close">
     <div class="logo-details">
-      <img class="header-log" id="logo-men" src="LOGO.png" style="width: 70px;">
-      <span class="logo_name"> Producteur de productivité</span>
+    <img class="header-log" id="logo-men" src="LOGO.png" style="width: 60px;">
+      <span class="logo_name"> SABOURI</span>
     </div>
     <ul class="nav-links">
       <li>

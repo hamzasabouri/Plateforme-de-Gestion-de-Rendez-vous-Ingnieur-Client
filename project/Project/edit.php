@@ -48,8 +48,8 @@ if (isset($_POST["submit"])) {
   
   <div class="sidebar close">
     <div class="logo-details">
-      <img class="header-log" id="logo-men" src="LOGO.png" style="width: 70px;">
-      <span class="logo_name"> Producteur de productivité</span>
+    <img class="header-log" id="logo-men" src="LOGO.png" style="width: 60px;">
+      <span class="logo_name"> SABOURI</span>
     </div>
     <ul class="nav-links">
       <li>
@@ -103,7 +103,7 @@ if (isset($_POST["submit"])) {
   <div class="home-content">
     <i class='bx bx-menu' ></i>
 <div class="accueil-header">
-  <img class="header-log" id="logo-men" src="LOGO.png" style="width: 240px;">
+  <img class="header-log" id="logo-men" src="LOGO.png" style="width: 190px;">
 </div>
 <form class="form" action="" method="post">
   <p class="title">Modifier Project </p>
